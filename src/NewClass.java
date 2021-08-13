@@ -6,6 +6,8 @@ public class NewClass {
 		System.out.println("Second print line for project");
 		
 		System.out.println("Third line");
+		
+		System.out.println("4 line");
 
 	}
 
